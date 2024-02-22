@@ -8,6 +8,16 @@ NumPy Version: 1.25.2
 
 Matplotlib Version: 3.7.1
 
+### PINN results
+
+Below are the results from training a PINN on three test cases: under-damped, critically-damped, and over-damped. Each plot presents a comparison between the analytical solution and the response output from the trained PINN.
+
+<p align="center">
+  <img src="https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch/assets/19287772/6002ff45-ed3c-48c2-a740-062db158f1ac" alt="image1" width="376" height="303" style="margin-right: 10px;"/>
+  <img src="https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch/assets/19287772/bf8f3145-a059-458f-9cfe-4bc7966718d9" alt="image2" width="376" height="303" style="margin-right: 10px;"/>
+  <img src="https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch/assets/19287772/9677a15a-69a3-4a2c-9911-70638f0066a8" alt="image3" width="376" height="303"/>
+</p>
+
 
 ### iPINN results
 
