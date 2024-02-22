@@ -59,3 +59,14 @@ Below are the results of applying an iPINN to determine three unknown parameters
 <img src="https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch/assets/19287772/85ccbef5-7206-4ac7-a2c2-a16bb6402e74" width="376" height="303" alt="image">
 
 
+
+
+@software{wojtak_pinn_ipinn_2024,  
+title = {PINN and iPINN for RLC Circuit Equation in Pytorch},  
+author = {Weronika Wojtak},  
+month = feb,  
+year = 2024,  
+version = {1.0},  
+publisher = {GitHub},  
+repository = {https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch},  
+}  
