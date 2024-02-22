@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PINN and iPINN for RLC Circuit Equation in Pytorch
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Weronika
+    family-names: Wojtak
+    email: w.wojtak@gmail.com
+repository-code: 'https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch'
+abstract: >-
+  This repository hosts my PyTorch implementations of PINN
+  (Physics-Informed Neural Network) and iPINN (inverse
+  Physics-Informed Neural Network) from the tutorial
+  https://towardsdatascience.com/inverse-physics-informed-neural-net-3b636efeb37e
+version: '1.0'
+date-released: '2024-02-22'
