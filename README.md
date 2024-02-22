@@ -1,12 +1,14 @@
 # PINNS and iPINNS in Pytorch
 
-Python 3.10.12
+This repository hosts my PyTorch implementations of PINN (Physics-Informed Neural Network) and iPINN (inverse Physics-Informed Neural Network) from the tutorial https://towardsdatascience.com/inverse-physics-informed-neural-net-3b636efeb37e
 
-PyTorch Version: 2.1.0+cu121
+The original implementations were crafted using TensorFlow and can be accessed at https://github.com/jmorrow1000/PINN-iPINN
 
-NumPy Version: 1.25.2
 
-Matplotlib Version: 3.7.1
+Python 3.10.12  
+PyTorch Version: 2.1.0+cu121  
+NumPy Version: 1.25.2  
+Matplotlib Version: 3.7.1  
 
 ### PINN results
 
