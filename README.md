@@ -22,7 +22,7 @@ Here, $R$, $L$, and $C$ denote the circuit's resistance, inductance, and capacit
 
 ### PINN results
 
-Below are the results from training a PINN on three test cases: under-damped, critically-damped, and over-damped. Each plot presents a comparison between the analytical solution and the response output from the trained PINN.
+Below are the results from training a PINN on three test cases: under-damped, critically-damped, and over-damped. For definitions of each scenario, please refer to the original tutorial. Each plot presents a comparison between the analytical solution and the response output from the trained PINN.
 
 <p align="center">
   <img src="https://github.com/w-wojtak/PINNs-and-iPINNs-Pytorch/assets/19287772/6002ff45-ed3c-48c2-a740-062db158f1ac" alt="image1" width="376" height="303" style="margin-right: 10px;"/>
