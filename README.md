@@ -10,6 +10,16 @@ PyTorch Version: 2.1.0+cu121
 NumPy Version: 1.25.2  
 Matplotlib Version: 3.7.1  
 
+
+The current implementation concentrates on a PINN and iPINN for the second-order differential equation governing an RLC circuit:
+
+$$
+L \frac{d^2 i}{dt^2} + R \frac{di}{dt} + \frac{1}{C} i = 0.
+$$
+
+Here, $R$, $L$, and $C$ denote the circuit's resistance, inductance, and capacitance, respectively. The variable $i$ represents the current in the circuit, while $t$ signifies time.
+
+
 ### PINN results
 
 Below are the results from training a PINN on three test cases: under-damped, critically-damped, and over-damped. Each plot presents a comparison between the analytical solution and the response output from the trained PINN.
